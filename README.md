@@ -1,0 +1,1 @@
+Hey guys! this is going to be my evolutionary personal site where I'll be recording my tech/coding exploits and personal portfolio which I'll hopefully be growing exponentially as we go further into 2025. I'll be making improvements to this site as I learn more about web development. Here for the long run!
